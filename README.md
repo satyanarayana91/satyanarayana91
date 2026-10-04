@@ -67,9 +67,8 @@ Currently working on:
 
 ## Connect With Me
 
-- LinkedIn: [Your LinkedIn URL]
-- Email: [Your Professional Email]
-
+- LinkedIn: 
+- Email: satyanarayanakoppada91@gmail.com
 ---
 
 *This profile is continuously updated as I build and learn.*
